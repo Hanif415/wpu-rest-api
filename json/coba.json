@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Hanif",
+        "umur": 23,
+        "nrp": "043040032",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Hanif A",
+            "pembimbing2": "hanif Lagi"
+        }
+    },
+    {
+        "nama": "Hanif lagi",
+        "umur": 23,
+        "nrp": "043040032",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Hanif A",
+            "pembimbing2": "hanif Lagi"
+        }
+    }
+]
